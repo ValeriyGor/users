@@ -154,6 +154,8 @@ export default {
       transition: all 0.3s
       background-color: #fefefe
       color: #111
+      &:disabled
+        background-color: #bbb
       &:hover
         opacity: 0.9
       &.active
