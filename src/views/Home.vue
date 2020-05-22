@@ -152,6 +152,8 @@ export default {
       text-align: center
       cursor: pointer
       transition: all 0.3s
+      background-color: #fefefe
+      color: #111
       &:hover
         opacity: 0.9
       &.active
